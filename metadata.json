@@ -1,0 +1,7 @@
+{
+  "name": "Ifeanyi Lovers Guest House",
+  "description": "A premium, modern website for Ifeanyi Lovers Guest House in Babana, Niger State, featuring room bookings and food services with a mobile-first approach.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
